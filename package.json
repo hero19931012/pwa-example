@@ -1,0 +1,13 @@
+{
+  "name": "pwa-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "huiming <hero19931012@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -c-1 -p 8080"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
